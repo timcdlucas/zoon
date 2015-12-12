@@ -8,7 +8,7 @@ Zoön is a package for the reproducible and shareable analysis of species distri
 An overview of the project can be found [here](http://www.2020science.net/research/species-distribution-modelling).
 There is a blog to keep collaborators up to date with progress. This can be found [here](http://zoonproject.wordpress.com)
 
-Zoön is still being developed. Feel free to clone and use the code, open issues, let us know what you want etc. But don't expect much functionality from the package yet. If you would like to add functionality, please start writing modules!
+Zoön is still being developed. Feel free to clone and use the code, open issues, let us know what you want etc. If you would like to add functionality, please start writing modules!
 
 ### Basic usage
 
@@ -75,7 +75,7 @@ Please note, Zoön is still being developed. We would love you to contribute mod
 
 We welcome collaboration and input anyone who'd like to get involved!
 If you have any comments, suggestions or you spot any bugs or errors, please let us know via [the issue tracker](https://github.com/zoonproject/zoon/issues).
-Pull requests are always welcome, though please let us know what you're developing first so we plan how to integrate it into the main package. 
+Pull requests are always welcome, though please let us know what you're developing first so we can plan how to integrate it into the main package. 
 
 We are committed to making Zoön an inclusive project that the whole research community can contribute to and benefit from it and ask all contributers (including the Zoön development team) to stick to [a code of conduct](https://github.com/zoonproject/zoon/blob/master/code_of_conduct.md)
 
